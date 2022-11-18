@@ -12,7 +12,7 @@ body h1 {
   margin: 20px auto;
   text-align: center;
   font-size: 2.5rem;
-  font-family: "Poppins", sans-serif;
+  font-family: "Rubik Bubbles", cursive;
   font-weight: 600;
   color: rgb(223, 79, 63);
 }
@@ -81,7 +81,7 @@ body .container .middle {
 body .container .middle h3 {
   font-size: 1.5rem;
   margin: auto;
-  font-family: "Poppins";
+  font-family: "Rubik Bubbles", cursive;
   color: rgb(223, 79, 63);
 }
 body .container .bottom {
