@@ -1,0 +1,145 @@
+@media (max-width: 1085px) {
+    body {
+        .container {
+            .middle {
+                left: 33%;
+            }
+        }
+    }
+}
+
+@media (max-width: 900px) {
+    body {
+        .container {
+            .middle {
+                top: 49%;
+                left: 30%;
+                width: 250px;
+            }
+
+            .bottom {
+                img {
+                    width: 120px;
+                    height: 120px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 670px) {
+    body {
+        .container {
+            .scores {
+                .comp {
+                    p {
+                        font-size: 1.4rem;
+                    }
+
+                    span {
+                        font-size: 1rem;
+
+                        &#comp-score {
+                            font-size: 1.3rem;
+                        }
+                    }
+                }
+
+                .user {
+                    p {
+                        font-size: 1.4rem;
+                    }
+
+                    span {
+                        font-size: 1rem;
+
+                        &#user-score {
+                            font-size: 1.3rem;
+                        }
+                    }
+                }
+            }
+
+            .top {
+                img {
+                    width: 150px;
+                }
+            }
+
+            .middle {
+                left: 26%;
+                height: 55px;
+
+                h3 {
+                    font-size: 1.3rem;
+                }
+            }
+
+            .bottom {
+                img {
+                    width: 100px;
+                    height: 100px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 560px) {
+    body {
+        .container {
+            .middle {
+                top: 50%;
+                left: 22%;
+            }
+
+            .bottom {
+                img {
+                    width: 80px;
+                    height: 80px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 490px) {
+    body {
+        .container {
+            .top {
+                img {
+                    height: 100px;
+                    width: 100px;
+                }
+            }
+
+            .middle {
+                left: 13%;
+                top: 48%;
+            }
+
+            .bottom {
+                img {
+                    width: 60px;
+                    height: 60px;
+                }
+            }
+        }
+    }
+}
+
+@media (max-width: 391px) {
+    body {
+        h1 {
+            font-size: 2.3rem;
+        }
+
+        .container {
+            .middle {
+                height: 45px;
+                width: 200px;
+                left: 17%;
+            }
+        }
+    }
+}
